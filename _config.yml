@@ -1,0 +1,28 @@
+name: ARKO Technology Solutions Group
+favicon: null
+layout_spectrum: 0.03554663644172251
+typography_spectrum: 0.8888840777799487
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3401841183658689
+  lightness: 0.67990294075571
+  saturation: 0.7108324966393411
+  rhythmicContrast: 0.46436896780505776
+purpose: []
